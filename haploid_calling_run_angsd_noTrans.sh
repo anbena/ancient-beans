@@ -1,0 +1,11 @@
+/opt/software/ngs/angsd0.916/angsd -b bam_list5 -minMapQ 30 -minQ 20 -only_proper_pairs 0 -dohaplocall 2 -doCounts 1  -minMinor 2 -noTrans 1 -r Chr01 -out haplo_chr01
+/opt/software/ngs/angsd0.916/angsd -b bam_list5 -minMapQ 30 -minQ 20 -only_proper_pairs 0 -dohaplocall 2 -doCounts 1  -minMinor 2 -noTrans 1 -r Chr02 -out haplo_chr02
+/opt/software/ngs/angsd0.916/angsd -b bam_list5 -minMapQ 30 -minQ 20 -only_proper_pairs 0 -dohaplocall 2 -doCounts 1  -minMinor 2 -noTrans 1 -r Chr03 -out haplo_chr03
+/opt/software/ngs/angsd0.916/angsd -b bam_list5 -minMapQ 30 -minQ 20 -only_proper_pairs 0 -dohaplocall 2 -doCounts 1  -minMinor 2 -noTrans 1 -r Chr04 -out haplo_chr04
+/opt/software/ngs/angsd0.916/angsd -b bam_list5 -minMapQ 30 -minQ 20 -only_proper_pairs 0 -dohaplocall 2 -doCounts 1  -minMinor 2 -noTrans 1 -r Chr05 -out haplo_chr05
+/opt/software/ngs/angsd0.916/angsd -b bam_list5 -minMapQ 30 -minQ 20 -only_proper_pairs 0 -dohaplocall 2 -doCounts 1  -minMinor 2 -noTrans 1 -r Chr06 -out haplo_chr06
+/opt/software/ngs/angsd0.916/angsd -b bam_list5 -minMapQ 30 -minQ 20 -only_proper_pairs 0 -dohaplocall 2 -doCounts 1  -minMinor 2 -noTrans 1 -r Chr07 -out haplo_chr07
+/opt/software/ngs/angsd0.916/angsd -b bam_list5 -minMapQ 30 -minQ 20 -only_proper_pairs 0 -dohaplocall 2 -doCounts 1  -minMinor 2 -noTrans 1 -r Chr08 -out haplo_chr08
+/opt/software/ngs/angsd0.916/angsd -b bam_list5 -minMapQ 30 -minQ 20 -only_proper_pairs 0 -dohaplocall 2 -doCounts 1  -minMinor 2 -noTrans 1 -r Chr09 -out haplo_chr09
+/opt/software/ngs/angsd0.916/angsd -b bam_list5 -minMapQ 30 -minQ 20 -only_proper_pairs 0 -dohaplocall 2 -doCounts 1  -minMinor 2 -noTrans 1 -r Chr10 -out haplo_chr10
+/opt/software/ngs/angsd0.916/angsd -b bam_list5 -minMapQ 30 -minQ 20 -only_proper_pairs 0 -dohaplocall 2 -doCounts 1  -minMinor 2 -noTrans 1 -r Chr11 -out haplo_chr11
